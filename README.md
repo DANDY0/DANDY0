@@ -1,26 +1,27 @@
 # 🧑‍🦱 About me:
-👋 Hello! I am Egor Babaev.
+👋 Hello! I am Danil Nesvitailo.
 
-I am a Unity Developer and a student at V. N. Karazin National University. I've had the privilege of working at Realis Network as a Unity developer for a year (founder's Telegram: @exLead). My primary interests lie in Game Development, Mathematics and Blockchain. 👀
+I am a Unity Developer and a student at Kharkiv National University of Radioelectronics. 
+Over the course of my game development journey, I've honed a diverse set of skills, including
 
-Over the course of my journey, I've honed a diverse set of skills, including:
+📌**Unity & C#:** Good knowledge.
 
-📌**Unity Engine Mastery:** 2 years experience 
+📌**Version Control:** Proficient in Git.
 
-📌**C# Fluency** 
+📌**Third-Party SDK Integration:** Experienced in integrating various SDKs into projects.
 
-📌**ECS:** Proficient with Entitas, ensuring efficient and scalable game systems
+📌**Multiplayer Game Development:** Extensive experience in creating multiplayer games, including matchmaking, lobbies, game object synchronization, and data saving.
 
-📌**OOP and SOLID**
+📌**Unity Assets:** Worked with many Unity assets such as Zenject, Rewired, Obi, Odin, DoTween, RayFire, and PuppetMaster.
 
-📌**DI:** Mastery in Dependency Injection with Zenject
+📌**Shaders and VFX:** Proficient in custom shaders and VFX, including MkToon, ColorProToon 2, and EpicToonFX.
 
-📌**GUI Excellence:** Expertise in adaptive UI layout, with proficiency in Figma
+📌**Optimization:** Skilled in using tools like Profiler and FrameDebugger for UI and code optimization, including refactoring. Experienced in using Logcat.
 
-📌**UniRx, DOTwenn** and other techologies
+📌**Porting:** Experience in porting games to various platforms including Windows, Xbox, Steam, and Android.
 
 For a deeper dive into my projects and accomplishments, feel free to explore further.
 # 📫 Contacts:
-• [LinkedIn](https://www.linkedin.com/in/egor-babaev/)
+• [LinkedIn](https://www.linkedin.com/in/danil-nesvitailo)
 
-• E-mail: babaev1302@gmail.com
+• E-mail: nesindan@gmail.com
