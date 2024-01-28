@@ -20,7 +20,6 @@ Over the course of my game development journey, I've honed a diverse set of skil
 
 📌**Porting:** Experience in porting games to various platforms including Windows, Xbox, Steam, and Android.
 
-For a deeper dive into my projects and accomplishments, feel free to explore further.
 # 📫 Contacts:
 • [LinkedIn](https://www.linkedin.com/in/danil-nesvitailo)
 
