@@ -1,24 +1,32 @@
 # 🧑‍🦱 About me:
-👋 Hello! I am Danil Nesvitailo.
+👋 Hello! I am Danil Nesvitailo
 
-I am a Unity Developer and a student at Kharkiv National University of Radioelectronics. 
-Over the course of my game development journey, I've honed a diverse set of skills, including
+Unity Developer with experience in multiplayer, WebGL, and mobile game development.
+I have a strong technical background and a passion for creating optimized and scalable games.
 
-📌**Unity & C#:** Good knowledge.
+Graduated from Kharkiv National University of Radioelectronics.
 
-📌**Version Control:** Proficient in Git.
+📌**Unity & C#:** Expertise in gameplay mechanics, UI, and performance optimization
 
-📌**Third-Party SDK Integration:** Experienced in integrating various SDKs into projects.
+📌**Multiplayer SDKs & Networking:** Proficient in Photon PUN & Quantum 3: matchmaking, lobbies, sync, data persistence.
 
-📌**Multiplayer Game Development:** Extensive experience in creating multiplayer games, including matchmaking, lobbies, game object synchronization, and data saving.
+📌**Custom Multiplayer Solutions:** Developed custom server APIs for matchmaking, session management, and data storage.
 
-📌**Unity Assets:** Worked with many Unity assets such as Zenject, Rewired, Obi, Odin, DoTween, RayFire, and PuppetMaster.
+📌**ECS:** Built a project using Entitas ECS, improving performance & scalability.
 
-📌**Shaders and VFX:** Proficient in custom shaders and VFX, including MkToon, ColorProToon 2, and EpicToonFX.
+📌**WebGL** Experience in developing & optimizing browser-based games.
 
-📌**Optimization:** Skilled in using tools like Profiler and FrameDebugger for UI and code optimization, including refactoring. Experienced in using Logcat.
+📌**Documentation:** Writing technical documentation for game systems, APIs, and SDKs.
 
-📌**Porting:** Experience in porting games to various platforms including Windows, Xbox, Steam, and Android.
+📌**Version Control:** Proficient in version control & workflows.
+
+📌**Porting:** Experience in porting to Windows, Xbox, Steam.
+
+📌**Optimization:** Skilled in Profiler, FrameDebugger, Logcat, refactoring for UI & code efficiency.
+
+📌**Shaders and VFX:** Proficient in custom shaders & VFX (MkToon, ColorProToon 2, EpicToonFX).
+
+📌**Unity Assets:** Worked with Zenject, Rewired, Obi, Odin, DoTween, RayFire, and PuppetMaster.
 
 # 📫 Contacts:
 • [LinkedIn](https://www.linkedin.com/in/danil-nesvitailo-06326b1b6/)
