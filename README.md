@@ -1,34 +1,31 @@
-# 🧑‍🦱 About me:
-👋 Hello! I am Danil Nesvitailo
+# 🧑‍💻 About me:
+👋 I'm **Danylo Nesvitailo**, Unity Developer with 4 years of experience in mobile, WebGL, and multiplayer game development.
 
-Unity Developer with experience in multiplayer, WebGL, and mobile game development.
-I have a strong technical background and a passion for creating optimized and scalable games.
+I’ve shipped 20+ projects across Android, iOS, Web, Steam, and PS5. Focused on performance, architecture, and multiplayer systems.
 
-Graduated from Kharkiv National University of Radioelectronics.
+---
 
-📌**Unity & C#:** Expertise in gameplay mechanics, UI, and performance optimization
+## ⚙️ Core Skills
 
-📌**Multiplayer SDKs & Networking:** Proficient in Photon PUN & Quantum 3: matchmaking, lobbies, sync, data persistence.
+- **Photon (PUN / Quantum 3):** rollback, sync, matchmaking, deterministic logic
+- **ECS:** Entitas / Quantum ECS, used for both PvP and RPG systems
+- **Architecture:** MVVM, Zenject, decoupled gameplay and UI systems
+- **Optimization:** Profiler, FrameDebugger, Addressables, draw call reduction
+- **SDKs:** Elympics (Web3), IAP, ads, analytics, REST APIs
+- **Tooling:** custom editor tools, automation, asset pipelines
 
-📌**Custom Multiplayer Solutions:** Developed custom server APIs for matchmaking, session management, and data storage.
+---
 
-📌**ECS:** Built a project using Entitas ECS, improving performance & scalability.
+## 🛠 Tech Stack
 
-📌**WebGL** Experience in developing & optimizing browser-based games.
+Unity, C# • Photon Quantum • Entitas ECS • Zenject • UniRx • UniTask  
+DoTween • Odin • Rewired • RayFire • AssetBundles • Addressables  
+Platforms: Android • iOS • WebGL • Steam • PS5
 
-📌**Documentation:** Writing technical documentation for game systems, APIs, and SDKs.
+---
 
-📌**Version Control:** Proficient in version control & workflows.
+## 📫 Contacts
 
-📌**Porting:** Experience in porting to Windows, Xbox, Steam.
-
-📌**Optimization:** Skilled in Profiler, FrameDebugger, Logcat, refactoring for UI & code efficiency.
-
-📌**Shaders and VFX:** Proficient in custom shaders & VFX (MkToon, ColorProToon 2, EpicToonFX).
-
-📌**Unity Assets:** Worked with Zenject, Rewired, Obi, Odin, DoTween, RayFire, and PuppetMaster.
-
-# 📫 Contacts:
-• [LinkedIn](https://www.linkedin.com/in/danil-nesvitailo-06326b1b6/)
-
-• E-mail: nesindan@gmail.com
+- 🔗 [Portfolio](https://sites.google.com/view/danil-nesvitailo-portfolio?usp=sharing)
+- 💼 [LinkedIn](https://www.linkedin.com/in/danil-nesvitailo-06326b1b6/)
+- 📧 nesindan@gmail.com
