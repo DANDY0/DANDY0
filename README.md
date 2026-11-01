@@ -3,10 +3,6 @@
 5 years in commercial game development, 20+ shipped titles on **mobile, WebGL, Steam, Xbox and PS5**.
 I build gameplay and multiplayer systems end to end: architecture, netcode, game feel and performance.
 
-- 🐈 Now at **Estoty** — [The Missing Tail](https://store.steampowered.com/app/4096780/The_Missing_Tail/), co-op adventure for PC / Xbox / PS: FishNet netcode with custom networked physics
-- 🌐 Before: **Elympics** — 10+ competitive multiplayer web games, Pengu Clash (2M+ users)
-- 👥 Team lead of 3 Unity developers at **Grand Devs** (Steam / Xbox / PS5 ports)
-
 ---
 
 ## ⚙️ Core skills
