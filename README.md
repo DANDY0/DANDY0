@@ -1,30 +1,35 @@
-# 🧑‍💻 About me:
-👋 I'm **Danylo Nesvitailo**, Unity Developer with 5 years of experience in mobile, WebGL, and multiplayer game development.
+# 🧑‍💻 Danylo Nesvitailo — Senior Unity Developer
 
-I’ve shipped 20+ projects across Android, iOS, Web, Steam, and PS5. Focused on performance, architecture, and multiplayer systems.
+5 years in commercial game development, 20+ shipped titles on **mobile, WebGL, Steam, Xbox and PS5**.
+I build gameplay and multiplayer systems end to end: architecture, netcode, game feel and performance.
 
----
-
-## ⚙️ Core Skills
-
-- **Photon (PUN / Quantum 3):** rollback, sync, matchmaking, deterministic logic
-- **ECS:** Entitas / Quantum ECS, used for both PvP and RPG systems
-- **Architecture:** MVVM, Zenject, decoupled gameplay and UI systems
-- **Optimization:** Profiler, FrameDebugger, Addressables, draw call reduction
-- **SDKs:** Elympics (Web3), IAP, ads, analytics, REST APIs
-- **Tooling:** custom editor tools, automation, asset pipelines
+- 🐈 Now at **Estoty** — [The Missing Tail](https://store.steampowered.com/app/4096780/The_Missing_Tail/), co-op adventure for PC / Xbox / PS: FishNet netcode with custom networked physics
+- 🌐 Before: **Elympics** — 10+ competitive multiplayer web games, Pengu Clash (2M+ users)
+- 👥 Team lead of 3 Unity developers at **Grand Devs** (Steam / Xbox / PS5 ports)
 
 ---
 
-## 🛠 Tech Stack
+## ⚙️ Core skills
 
-Unity, C# • Photon Quantum • Entitas ECS • Zenject • UniRx • UniTask  
-DoTween • Odin • Rewired • RayFire • AssetBundles • Addressables  
-Platforms: Android • iOS • WebGL • Steam • PS5
+- **Multiplayer:** FishNet, Photon PUN, Photon Quantum 3 (deterministic), custom netcode, networked physics
+- **Architecture:** ECS (Entitas, Quantum), Zenject, MVVM / MVP, component-based design
+- **Performance:** Profiler, Frame Debugger, draw calls, memory, load time and build size
+- **Pipeline:** Addressables, custom editor tools, automation
+- **SDKs:** ads, analytics, IAP, Web3 / Elympics
+- **AI workflow:** Claude Code, Codex — agentic development with code review, project AI setup (docs, skills, MCP)
 
----
+## 🛠 Tech stack
+
+Unity, C# • FishNet • Photon Quantum • Entitas ECS • Zenject • UniTask • UniRx
+DOTween • Odin • Addressables • Rewired • RayFire
+Platforms: Android • iOS • WebGL • Steam • Xbox • PS5
+
+## 🎮 Pet projects
+
+- [**Duel Archers**](https://github.com/DANDY0/PhotonQuantum-ECS-ArchersPVP) — deterministic real-time 1v1 PvP on Photon Quantum 3
+- [**ECS RPG**](https://github.com/DANDY0/ECS-RPG) — survivors-like action RPG on Entitas ECS
 
 ## 📫 Contacts
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/danil-nesvitailo-06326b1b6/)
 - 📧 nesindan@gmail.com
+- ✈️ Telegram: [@dandynesvit](https://t.me/dandynesvit)
