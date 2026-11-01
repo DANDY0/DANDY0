@@ -28,4 +28,5 @@ Platforms: Android • iOS • WebGL • Steam • Xbox • PS5
 ## 📫 Contacts
 
 - 📧 nesindan@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/danylo-nesvitailo/)
 - ✈️ Telegram: [@dandynesvit](https://t.me/dandynesvit)
