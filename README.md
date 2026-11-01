@@ -26,6 +26,5 @@ Platforms: Android • iOS • WebGL • Steam • PS5
 
 ## 📫 Contacts
 
-- 🔗 [Portfolio](https://sites.google.com/view/danil-nesvitailo-portfolio?usp=sharing)
 - 💼 [LinkedIn](https://www.linkedin.com/in/danil-nesvitailo-06326b1b6/)
 - 📧 nesindan@gmail.com
