@@ -11,7 +11,7 @@ I build gameplay and multiplayer systems end to end: architecture, netcode, game
 - **Architecture:** ECS (Entitas, Quantum), Zenject, MVVM / MVP, component-based design
 - **Performance:** Profiler, Frame Debugger, draw calls, memory, load time and build size
 - **Pipeline:** Addressables, custom editor tools, automation
-- **SDKs:** ads, analytics, IAP, Web3 / Elympics
+- **SDKs:** ads, analytics, IAP, Web3 SDKs
 - **AI workflow:** Claude Code, Codex — agentic development with code review, project AI setup (docs, skills, MCP)
 
 ## 🛠 Tech stack
